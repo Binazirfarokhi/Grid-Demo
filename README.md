@@ -47,7 +47,5 @@ Definition: The column will be as wide as the longest unbreakable piece of conte
 Impact: It ensures the content fits completely, but it won't shrink smaller than its longest content.
 
 
-Sub-grid{ 
-
 
 
